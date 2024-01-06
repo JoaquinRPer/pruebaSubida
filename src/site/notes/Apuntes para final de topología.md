@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apuntes-para-final-de-topologia/"}
+{"dg-publish":true,"permalink":"/apuntes-para-final-de-topologia/","tags":["gardenEntry"]}
 ---
 
 # Topología, apunte para final
